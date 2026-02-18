@@ -45,55 +45,44 @@ A custom Discord bot built for managing competitive scrims in **The Finals**. De
 ## 📸 Screenshots
 
 ### Scrim Setup
+*Interactive team selection with buttons and dropdowns*
 ![Scrim Setup](screenshots/scrim-setup.png)
 
-*Interactive team selection with buttons and dropdowns*
-
 ### Random Team Generation
+*Automatic shuffling of players into balanced teams*
 ![Random Teams](screenshots/scrim-random.png)
 
-*Automatic shuffling of players into balanced teams*
-
 ### Result Submission
+*Upload screenshot proof of match results*
 ![Result Upload](screenshots/scrim-end-upload.png)
 
-*Upload screenshot proof of match results*
-
+*Button-based placement selection*
 ![Result Selection](screenshots/scrim-end-select.png)
 
-*Button-based placement selection*
-
+*Final results with points awarded*
 ![Scrim Complete](screenshots/scrim-complete.png)
 
-*Final results with points awarded*
-
 ### Leaderboard
+*Paginated leaderboard with rank tiers and stats*
 ![Leaderboard](screenshots/leaderboard.png)
 
-*Paginated leaderboard with rank tiers and stats*
-
 ### Player Stats
+*Detailed individual statistics with recent match history*
 ![Player Stats](screenshots/stats.png)
 
-*Detailed individual statistics with recent match history*
-
 ### Team Management
+*Registered teams with paginated display*
 ![Team List](screenshots/team-list.png)
 
-*Registered teams with paginated display*
-
+*Team roster and combined stats*
 ![Team Info](screenshots/team-info.png)
 
-*Team roster and combined stats*
-
 ### Scrim History & Lookup
+*Complete history of all scrims with status indicators*
 ![Scrim History](screenshots/scrim-history.png)
 
-*Complete history of all scrims with status indicators*
-
-![Scrim Lookup](screenshots/scrim-lookup.png)
-
 *Detailed view of past scrims including screenshot proof*
+![Scrim Lookup](screenshots/scrim-lookup.png)
 
 ---
 
