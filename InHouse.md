@@ -157,6 +157,19 @@ Players earn points based on placement:
 
 ---
 
+## 🚀 Roadmap
+
+Planned features for future updates:
+
+- [ ] **Team preview in dropdown** — See team members when selecting registered teams
+- [ ] **Balanced random teams** — Distribute players by points for fairer matchups
+- [ ] **Team leaderboards** — Rankings for registered teams, not just individuals
+- [ ] **Single active scrim per captain** — Prevent starting multiple scrims at once
+
+Have a suggestion? Reach out via Discord or the contact links below.
+
+---
+
 ## 🔒 Why Private?
 
 This bot was custom-built for a specific community. The source code remains private to:
