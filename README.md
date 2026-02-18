@@ -41,42 +41,53 @@ A custom Discord bot built for managing competitive scrims in **The Finals**. De
 
 ### Scrim Setup
 ![Scrim Setup](screenshots/scrim-setup.png)
+
 *Interactive team selection with buttons and dropdowns*
 
 ### Random Team Generation
 ![Random Teams](screenshots/scrim-random.png)
+
 *Automatic shuffling of players into balanced teams*
 
 ### Result Submission
 ![Result Upload](screenshots/scrim-end-upload.png)
+
 *Upload screenshot proof of match results*
 
 ![Result Selection](screenshots/scrim-end-select.png)
+
 *Button-based placement selection*
 
 ![Scrim Complete](screenshots/scrim-complete.png)
+
 *Final results with points awarded*
 
 ### Leaderboard
 ![Leaderboard](screenshots/leaderboard.png)
+
 *Paginated leaderboard with rank tiers and stats*
 
 ### Player Stats
 ![Player Stats](screenshots/stats.png)
+
 *Detailed individual statistics with recent match history*
 
 ### Team Management
 ![Team List](screenshots/team-list.png)
+
 *Registered teams with paginated display*
 
 ![Team Info](screenshots/team-info.png)
+
 *Team roster and combined stats*
 
 ### Scrim History & Lookup
 ![Scrim History](screenshots/scrim-history.png)
+
 *Complete history of all scrims with status indicators*
 
 ![Scrim Lookup](screenshots/scrim-lookup.png)
+
 *Detailed view of past scrims including screenshot proof*
 
 ---
