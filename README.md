@@ -35,6 +35,11 @@ A custom Discord bot built for managing competitive scrims in **The Finals**. De
 - **Admin Controls** — Result amendment, team deletion, scrim cancellation
 - **Dispute System** — Scrim IDs for easy result verification
 
+### Automation
+- **Auto Rank Roles** — Players automatically receive Discord roles (S/A/B/C/D/F) based on their points after each scrim
+- **Auto-Updating Leaderboard** — Dedicated channel that refreshes after every completed scrim
+- **Scrim Results Feed** — Completed scrims automatically posted to a results channel for easy tracking
+
 ---
 
 ## 📸 Screenshots
@@ -157,14 +162,14 @@ Players earn points based on placement:
 | 4th | 0 |
 
 **Rank Tiers:**
-| Tier | Points Required |
-|------|-----------------|
-| 🏆 S | 500+ |
-| 💎 A | 350+ |
-| 🥇 B | 200+ |
-| 🥈 C | 100+ |
-| 🥉 D | 50+ |
-| 📋 F | 0+ |
+| Tier | Points Required | Role Auto-Assigned |
+|------|-----------------|-------------------|
+| 🏆 S | 500+ | ✅ |
+| 💎 A | 350+ | ✅ |
+| 🥇 B | 200+ | ✅ |
+| 🥈 C | 100+ | ✅ |
+| 🥉 D | 50+ | ✅ |
+| 📋 F | 0+ | ✅ |
 
 ---
 
